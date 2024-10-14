@@ -1,20 +1,21 @@
 # i3 window manager Configuration 
 - **If you using `xfce` Kali environment  and u getting bored this is  the best way to shift your environment to Window Manager** 
 - This is simple and easy script i wrote from the scratch , and i spent 4 days  on this script with understanding the whole code.
-  ![image](https://github.com/user-attachments/assets/975f2dd6-96a2-4f7d-9137-768afed799f6)
-![image](https://github.com/user-attachments/assets/4634d728-2a85-42db-bad8-6670aab752e7)
-  ![image](https://github.com/user-attachments/assets/491ca1b2-2f42-4f47-8db2-acb78674ed59)
-![image](https://github.com/user-attachments/assets/647acb30-c6e6-46bf-a070-90b923d1e3fb)
-
+  
+  ![image](https://github.com/user-attachments/assets/647acb30-c6e6-46bf-a070-90b923d1e3fb)
+  ![image](https://github.com/user-attachments/assets/4634d728-2a85-42db-bad8-6670aab752e7)
+ ![window](https://github.com/user-attachments/assets/90b5f6a2-9d01-493d-8d5f-ab86c7dda975)
+![editor](https://github.com/user-attachments/assets/9849b0f6-df92-4010-824a-7ab2b282966e)
+![image](https://github.com/user-attachments/assets/491ca1b2-2f42-4f47-8db2-acb78674ed59)
 ## Installation 
 - **If you use Kali Linux this  script mainly focus on that but u can use on arch instead**
 - **Clone**
 ```bash
-git clone https:github.com/yaredcyber/dotfiles.git && cd i3wm/dotfile
+git@github.com:Yaredcyber/i3wm.git && cd i3wm
 ```
 -  **Giving permission to the files**
 ```bash 
-sudo chmod +x install.sh requirment.sh 
+sudo chmod +x install.sh requirements.sh 
 ```
 - **⚙️** **Executing  requirement tools**
 - This script contains the basic tools that goes to my i`3` configuration 
