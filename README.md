@@ -15,7 +15,7 @@ git@github.com:Yaredcyber/i3wm.git && cd i3wm
 ```
 -  **Giving permission to the files**
 ```bash 
-sudo chmod +x install.sh requirements.sh 
+sudo chmod +x install.sh requirement.sh 
 ```
 - **⚙️** **Executing  requirement tools**
 - This script contains the basic tools that goes to my i`3` configuration 
@@ -62,3 +62,6 @@ sudo apt install neovim
 git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
 ```
 ### ✖️  If u download nvim 0.9.5 may not work  instead of 0.9.5 install V0.10.0 app image from the site 
+![nvim](https://github.com/user-attachments/assets/e2a5a3d6-ef80-4d73-8303-0438b4410894)
+
+
