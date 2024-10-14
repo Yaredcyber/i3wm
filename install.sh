@@ -84,4 +84,9 @@ else
 fi
 
 #lunching the Polybar 
-sudo ~/.config/polybar/launch.sh 
+sudo ~/.config/polybar/launch.sh  
+read -p "Do u went to reboot the system now y/n?"choice 
+if [ "$choice" == "y" ] ; then 
+    reboot 
+else 
+    echo "You must be reboot the system after installation !!"
