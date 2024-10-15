@@ -11,7 +11,7 @@
 - **If you use Kali Linux this  script mainly focus on that but u can use on arch instead**
 - **Clone**
 ```bash
-git@github.com:Yaredcyber/i3wm.git && cd i3wm
+git clone https://github.com/Yaredcyber/i3wm.git && cd i3wm
 ```
 -  **Giving permission to the files**
 ```bash 
